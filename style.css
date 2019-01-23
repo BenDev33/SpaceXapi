@@ -1,0 +1,52 @@
+body {
+    background: url('./images/international.jpg') no-repeat center;
+    background-size: cover;
+    margin-bottom: 550px;
+}
+
+.rockets {
+    border: solid 2px white;
+    border-radius: 10px;
+    background-color: rgb(84, 95, 109);
+    position: fixed;
+    text-align: center;
+    margin-left: 40px;
+    width: 200px;
+    height: 100px;
+
+}
+
+h1 {
+    color: rgb(39, 94, 212);
+    font-family: 'Passion One', cursive;
+    font-size: 50px;
+    margin-top: -10px;
+}
+
+h3 {
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 50%;
+    height: 50%;
+}
+
+h4 {
+    font-size: 20px;
+    color: white;
+}
+
+p {
+    color: white;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
